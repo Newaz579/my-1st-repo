@@ -1,0 +1,260 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.front-container {
+    height: 700px;
+    margin-top: 0%;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.donate-poor {
+    width: 50%;
+    color: white;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+
+.donate-poor h1 {
+    font-size: 70px;
+}
+
+.donate-poor p {
+    font-size: 20px;
+}
+
+.donate-now {
+    width: 140px;
+    height: 45px;
+    background-color: #FF4500;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 38%;
+    color: white;
+}
+
+/* Donate Section */
+.donate-container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.donate-today {
+
+}
+.donate-today h1{
+    font-size: 60px;
+    font-weight: 700;
+    padding-left: 20%;
+}
+
+.donate-today p{
+    font-size: 20px;
+    padding-left: 8%;
+}
+
+.donate-amount{
+    display: flex;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    background-color: #DCDCDC;
+    margin: 8px;
+    color: #808080;
+    text-align: center;
+    font-size: 30px;
+}
+
+.box-color{
+    height: 150px;
+    width: 150px;
+    background-color: #FFB6C1;
+    border: 3px solid tomato;
+    color: tomato;
+    font-size: 30px;
+    text-align: center;
+}
+
+.line{
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
+
+}
+
+.other-amount p{
+    color: gray;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    margin-top: 6%;
+    font-size: 20px;
+}
+
+.other-amount button{
+    margin-top: 3%;
+}
+
+.Our-Donate-Plan{
+
+}
+
+.donate{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.donate h1{
+    font-size: 60px;
+    font-weight: 700;
+    padding-left: 10%;
+    margin-bottom: 3%;
+}
+
+.donate p{
+    font-size: 20px;
+}
+
+.family-donate{
+    display: flex;
+    margin-left: 50px;
+}
+
+.family-1{
+    width: 25%;
+    height: 25%;
+    background-color: #F0F8FF;
+    margin: 30px;
+    padding: 20px;
+}
+
+.family-2{
+    width: 25%;
+    height: 25%;
+    background-color: #FAEBD7;
+    margin: 30px;
+    padding: 20px;
+}
+
+.family-3{
+    width: 25%;
+    height: 25%;
+    background-color: #FFE4C4;
+    margin: 30px;
+    padding: 20px;
+}
+
+.Qurbani{
+    width: 50%;
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    
+}
+
+.cow-img{
+    padding: 50px;
+}
+.description{
+    padding-top: 0px;
+
+}
+.description h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.description p{
+    font-size: 20px;
+}
+
+.fire-fighter{
+    display: flex;
+    margin-left: 18%;
+    margin-right: 15%;
+    margin-top: 10%;
+
+}
+
+.victims{
+    width: 30%;
+    padding-right: 10%;
+}
+
+.victims h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.victims p{
+    font-size: 20px;
+}
+
+.victims-img{
+    width: 20%;
+    
+}
+
+.mail{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+}
+
+.mail-please{
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.mail-please h1{
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 6%;
+}
+
+.mail-please p{
+    font-size: 20px;
+}
+
+.mail-div{
+    background-color: #E9967A;
+    height: 120px;
+    padding-left: 8%;
+    /* padding-right: 20%; */
+    padding-top: 65px;
+}
+.mail-input{
+    height: 50px;
+    width: 69%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.button-design{
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-color: #DC143C;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #191970;
+    color: white;
+    padding-top: 80px;
+    margin-top: 10%;
+    text-align: center;
+}
